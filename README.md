@@ -1,4 +1,8 @@
 fixed .json file for altstore
 
-
-<a href='altstore://source?URL=%20https://raw.githubusercontent.com/yeetpet3/enmity-AltStore-source-fix/refs/heads/main/AltStore.json'>Add to Altstore</a>
+<html>
+<body>
+<h2>Copy Link for Altstore</h2>
+<span id="heading"></span><br/>
+<span id="paragraph"></span>
+<a href='https://raw.githubusercontent.com/yeetpet3/enmity-AltStore-source-fix/refs/heads/main/AltStore.json'> Altstore</a>
